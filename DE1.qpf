@@ -1,0 +1,19 @@
+# -------------------------------------------------------------------------- #
+#
+# Quartus II Project File
+# DE1.qpf
+#
+# Skeleton project for porting this design to the Terasic DE1 board
+# (Altera/Intel Cyclone II EP2C20F484C7). See DE1.qsf for pin assignments
+# and required top-level changes.
+#
+# NOTE: Cyclone II support was removed from Quartus Prime. Open this
+# project with Quartus II (legacy), e.g. 13.0 SP1 -- the last release that
+# supports both the Cyclone II family and the FIR Compiler II IP used by
+# LowFIR500.v / BandFIR5503000.v / HighFIR.v.
+#
+# -------------------------------------------------------------------------- #
+
+QUARTUS_VERSION = "13.0"
+
+PROJECT_REVISION = "DE1"
